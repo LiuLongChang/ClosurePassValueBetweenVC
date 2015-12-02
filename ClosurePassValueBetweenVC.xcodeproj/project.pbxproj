@@ -12,6 +12,7 @@
 		94081F951C0EBA1C00CD8922 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94081F931C0EBA1C00CD8922 /* Main.storyboard */; };
 		94081F971C0EBA1C00CD8922 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94081F961C0EBA1C00CD8922 /* Assets.xcassets */; };
 		94081F9A1C0EBA1C00CD8922 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94081F981C0EBA1C00CD8922 /* LaunchScreen.storyboard */; };
+		94081FA21C0EBBA700CD8922 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94081FA11C0EBBA700CD8922 /* NextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		94081F961C0EBA1C00CD8922 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94081F991C0EBA1C00CD8922 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		94081F9B1C0EBA1C00CD8922 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94081FA11C0EBBA700CD8922 /* NextViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				94081F8F1C0EBA1C00CD8922 /* AppDelegate.swift */,
 				94081F911C0EBA1C00CD8922 /* ViewController.swift */,
+				94081FA11C0EBBA700CD8922 /* NextViewController.swift */,
 				94081F931C0EBA1C00CD8922 /* Main.storyboard */,
 				94081F961C0EBA1C00CD8922 /* Assets.xcassets */,
 				94081F981C0EBA1C00CD8922 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				94081F921C0EBA1C00CD8922 /* ViewController.swift in Sources */,
+				94081FA21C0EBBA700CD8922 /* NextViewController.swift in Sources */,
 				94081F901C0EBA1C00CD8922 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
